@@ -12,5 +12,5 @@ Even QA team also use this cool stuff while doing website testing
 As per my experience most of the time getProfile backend API is not available while creating templates.
 So there is no need to wait for Backend API.
 randomuser provide us data regarding user profiles i.e. random profile picture, name, mobile and other stuff.
-They have provided API https://randomuser.me/api/.its open sourse project we can take help of this cool stuff while developing
+They have provided API https://randomuser.me/api/. Its open sourse project we can take help of this cool stuff while developing
 <a href="https://randomuser.me"><strong>https://randomuser.me</strong></a>
